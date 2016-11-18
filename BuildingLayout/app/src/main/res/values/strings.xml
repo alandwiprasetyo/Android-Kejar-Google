@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BuildingLayout</string>
+    <string name="hello_word">Hello World</string>
+    <string name="image_view_example">image view example</string>
+    <string name="description">The views from Panorama Ridge are some of the most scenic views in the Garibaldi Provincial Park area. Located on the opposite end of the campsite, high above Garibaldi Lake, Panorama Ridge offers a full panoramic view of Garibaldi Lake, Black Tusk, and the Helm Lake area</string>
+    <string name="scrollview">ScrollView</string>
+    <string name="linear_layout">Linear Layout</string>
+    <string name="transition_acitivity">Transition Acitivity</string>
+    <string name="this_is_a_fragment">This is a fragment</string>
+</resources>
